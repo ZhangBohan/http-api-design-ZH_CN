@@ -350,7 +350,7 @@ HTTP/1.1 429 Too Many Requests
 
 你可以提供可选的方式为客户端提供更详细可读的响应，使用查询参数（例如：`?pretty=true`）或者通过`Accept`头信息参数（例如：`Accept: application/vnd.heroku+json; version=3; indent=4;`）。
 
-###工件（Artifacts）
+### 工件（Artifacts）
 
 
 #### 提供机器可读的JSON模式

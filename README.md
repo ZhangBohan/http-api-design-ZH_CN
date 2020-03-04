@@ -392,3 +392,10 @@ $ curl -is https://$TOKEN@service.com/users
 一旦你的API宣布产品正式版本及稳定版本时，不要在当前API版本中做一些不兼容的改变。如果你需要，请创建一个新的版本的API。
 
 
+----------
+
+好久没同步更新了，这么多朋友关注，最近有时间重启这个项目
+
+进微信交流群加我好友：
+
+![image](https://user-images.githubusercontent.com/2317407/75836820-07134080-5dfe-11ea-8cc6-d755f32f486d.png)
